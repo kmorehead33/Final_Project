@@ -1,4 +1,4 @@
-schedule_date,schedule_season,schedule_week,team_home,score_home,score_away,team_away,spread_favorite,home_win,away_win,favorite,underdog,score_favorite,score_underdog,season_total_points_for _favorite,season_total_points_against_favorite,season_total_points_for _underdog,season_total_points_against_favorite,win_percentage_favorite,win_percentage_underdog
+schedule_date,schedule_season,schedule_week,team_home,score_home,score_away,team_away,spread_favorite,home_win,away_win,favorite,underdog,score_favorite,score_underdog,season_total_points_for _favorite,season_total_points_against_favorite,season_total_points_for _underdog,season_total_points_against_underdog,win_percentage_favorite,win_percentage_underdog
 9/10/2015,2015,1,NE,28,21,PIT,-7,1,0,NE,PIT,28,21,28,21,21,28,1,0
 9/13/2015,2015,1,ARI,31,19,NO,-2.5,1,0,ARI,NO,31,19,31,19,19,31,1,0
 9/13/2015,2015,1,BUF,27,14,IND,-1,1,0,IND,BUF,14,27,14,27,27,14,0,1
